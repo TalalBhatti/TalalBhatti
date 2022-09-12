@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="talalbhatti" /> </p>
 
-- 🔭 I’m currently working on **MERN Stacks**
-
-- 🌱 I’m currently learning **Jenkins, Docker, CI/CD**
-
-- 💬 Ask me about **React, Flask,**
-
-- 📫 How to reach me **talalabhatti@gmail.com**
-
 - ⚡ Fun fact **I think I code good when its dark outside**
 
 <h3 align="left">Connect with me:</h3>
