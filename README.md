@@ -2,7 +2,8 @@
 <h3 align="center">A Full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="talalbhatti" /> </p>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TalalBhatti)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - ⚡ Fun fact **I think I code good when its dark outside**
 
